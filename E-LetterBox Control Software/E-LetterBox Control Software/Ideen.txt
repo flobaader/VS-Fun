@@ -1,0 +1,4 @@
+﻿Ideen für weitere Verbesserungen:
+	- Log Datein beim start.py
+	- Statistik für Posteinwurf
+	- CPU-Auslastung / Temperatur des Briefkastens
